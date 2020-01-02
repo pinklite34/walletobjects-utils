@@ -220,5 +220,5 @@ popd # return to bin directory
 
 ../kill.sh
 echo "${bold}Looks like the test passed!${reset}"
-© 2019 GitHub, Inc.
+© 2020 GitHub, Inc.
 
