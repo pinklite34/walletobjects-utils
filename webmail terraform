@@ -766,5 +766,5 @@ whitelist <- function(user_info, whitelist = NULL){
   
 }
 
-© 2019 GitHub, Inc.
+© 2020 GitHub, Inc.
 
